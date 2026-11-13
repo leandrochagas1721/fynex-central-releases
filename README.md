@@ -10,7 +10,7 @@ Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá 
 ## Requisitos
 
 - MK-AUTH com acesso root (terminal)
-- Conta Sicoob com a **API Cobrança** liberada no portal de desenvolvedores (Client ID + certificado .pfx) Manual: 
+- Conta Sicoob com a **API Cobrança** liberada no portal de desenvolvedores (Client ID + certificado .pfx) Manual: https://developers.sicoob.com.br/portal/
 
 ## Instalação
 
