@@ -1,6 +1,6 @@
 # Central de Integrações Bancárias — MK-AUTH
 
-Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá baixa automática no MK-AUTH quando o cliente paga. **Estamos atualizando para outras intituições**
+Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá baixa automática no MK-AUTH quando o cliente paga. **Em breve outras instituições (Sicredi / Itaú / Bradesco / Santander)**
 
 - Registro do boleto no banco pelo painel ou automático, X dias antes do vencimento
 - Baixa automática no MK-AUTH (webhook do Sicoob + conferência a cada 15 min)
