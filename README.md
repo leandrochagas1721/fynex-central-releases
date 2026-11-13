@@ -1,6 +1,6 @@
 # Central de Integrações Bancárias — MK-AUTH
 
-Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá baixa automática no MK-AUTH quando o cliente paga.
+Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá baixa automática no MK-AUTH quando o cliente paga. **Estamos atualizando para outras intituições**
 
 - Registro do boleto no banco pelo painel ou automático, X dias antes do vencimento
 - Baixa automática no MK-AUTH (webhook do Sicoob + conferência a cada 15 min)
@@ -45,5 +45,4 @@ A atualização é aplicada em até 1 minuto, com cópia de segurança automáti
 
 ## Suporte
 
-Desenvolvedor — suportesistema@fynexfibra.com.br
-Telefone: (91) 2888-0033
+Desenvolvedor — leandro.chagas17@gmail.com
