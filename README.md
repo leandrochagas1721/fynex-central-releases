@@ -10,7 +10,7 @@ Addon do MK-AUTH que registra boletos na API do **Sicoob (Cobrança V3)** e dá 
 ## Requisitos
 
 - MK-AUTH com acesso root (terminal)
-- Conta Sicoob com a **API Cobrança** liberada no portal de desenvolvedores (Client ID + certificado .pfx)
+- Conta Sicoob com a **API Cobrança** liberada no portal de desenvolvedores (Client ID + certificado .pfx) Manual: 
 
 ## Instalação
 
@@ -45,4 +45,5 @@ A atualização é aplicada em até 1 minuto, com cópia de segurança automáti
 
 ## Suporte
 
-Fynex Telecom — https://sistema.fynexfibra.com.br
+Desenvolvedor — suportesistema@fynexfibra.com.br
+Telefone: (91) 2888-0033
